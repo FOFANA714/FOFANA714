@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FOFANA714
+- 👋 Salut, je suis @Fofana714
 - 👀 je suis interress par la programation
-- 🌱 j'apprend actuelement javaScript
-- 💞️ je cgherche à colaborere actuelement sur le sujet javascrispt
+- 🌱 j'apprend actuelement Python/django
+- 💞️ je cherche à colaboré actuelement sur le sujet Python.
 - 📫 je suis joingnable au 0101948927
 
 <!---
